@@ -16,7 +16,7 @@
 (ii) View Product <br>
 (iii) Create User Account <br>
 
-### Signin User
+### Sign In User
 (i) Search Product <br>
 (ii) View Product <br>
 (iii) Create Order <br>
@@ -29,5 +29,5 @@
 (iii) Delete Product <br>
 (iv) Confirm Order <br>
 
-## Conclusion
+## Note
 There are also many more feature which are not in the list.
