@@ -1,5 +1,7 @@
 # E-commerce-php
 
+### I've Made this project with a friend, Sarvesh Jhunjhunwala. Our contribution has been equal. Please feel free to reuse this code.
+
 ## Platform Used
 ### Front-End
   (i) HTML5 <br>
